@@ -1,3 +1,9 @@
+libmogilefs-perl (1.14-0mit1) oneiric; urgency=low
+
+  * New upstream release
+
+ -- Kiall Mac Innes <kiall@managedit.ie>  Wed, 02 Nov 2011 23:57:09 +0000
+
 libmogilefs-perl (1.00-1) unstable; urgency=low
 
   * Initial release
